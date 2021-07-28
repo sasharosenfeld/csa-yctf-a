@@ -54,5 +54,9 @@ p {
  </div>
   */
 .doggyInTheWindow {
-  border: 10px solid
+  border: 10px solid black;
+  border-left: 5px solid blue
+  margin: 0;
+  padding: 2em; 
+  background-image: ur
 }
