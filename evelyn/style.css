@@ -4,5 +4,10 @@ body {{
   background-color: blue;
 }
 address {
-  font
+  font-style: normal;
+  color: black;
+}
+a {
+  color: red;
+  text-transform: uppercase;
 }

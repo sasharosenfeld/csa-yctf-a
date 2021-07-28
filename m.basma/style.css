@@ -29,3 +29,7 @@ a {
   font-family: "Verdana";
   color: black;
 }
+.doggyInTheWindow{
+  background-color: transparent;
+  background-image: url("https://picsum.photos/id/237/800");
+}
