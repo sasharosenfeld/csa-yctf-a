@@ -1,5 +1,18 @@
 /* External Css */
-/* Global  */
-body {
-  background-color: lightblue;
-}
+/* Global Styling */
+ body {
+      background-color: beige;
+    }
+    h1 {
+      color: orange;
+    }
+    p {
+      font-family: 'trirong'
+      color: purple;
+    }
+    .colorUppercaseNounderline {color: #8700fb;
+    text-transform: uppercase;
+    text-decoration: none; /* no underline */}
+    .colorUppercaseNounderline, .customlink {color: #8700fb;
+    text-transform: uppercase;
+    text-decoration: none; /* no underline */ }
